@@ -2,8 +2,8 @@
 //  calculation_n_rank_definder.h
 //  kramers_method_of_counting
 //
-//  Created by Андрей Гришин on 02/10/2019.
-//  Copyright © 2019 Андрей Гришин. All rights reserved.
+//  Created on 02/10/2019.
+//  Copyright © 2019 All rights reserved.
 //
 
 #ifndef calculation_n_rank_definder_h
