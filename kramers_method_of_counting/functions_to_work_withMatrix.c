@@ -2,8 +2,8 @@
 //  hFunctions.c
 //  n_rank_definder
 //
-//  Created by Андрей Гришин on 28/09/2019.
-//  Copyright © 2019 Андрей Гришин. All rights reserved.
+//  Created on 28/09/2019.
+//  Copyright © 2019 All rights reserved.
 //
 
 #include "functions_to_work_withMatrix.h"
